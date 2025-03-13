@@ -1,9 +1,4 @@
-#streamlit
-#openai
-#fpdf
 streamlit
-fpdf
 openai
-smtplib
-ssl
-email
+fpdf
+
