@@ -3,7 +3,7 @@ from fpdf import FPDF
 import openai
 
 # Set OpenAI API key
-openai.api_key = 'AIzaSyAzlyTKLVA4vJTFNQcCUenKrkox5U_PMkI'
+openai.api_key = ''
 
 # Initialize Streamlit app
 st.title('Medical Chatbot and PDF Generator')
@@ -59,7 +59,7 @@ import ssl
 from email.message import EmailMessage
 
 # Set OpenAI API key
- key = 'AIzaSyAzlyTKLVA4vJTFNQcCUenKrkox5U_PMkI'
+openai.api_key  = 'AIzaSyAzlyTKLVA4vJTFNQcCUenKrkox5U_PMkI'
 
 # Initialize Streamlit app
 st.title('Medical Chatbot and PDF Generator')
