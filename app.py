@@ -59,7 +59,7 @@ import ssl
 from email.message import EmailMessage
 
 # Set OpenAI API key
-openai.api_key = 'YOUR_OPENAI_API_KEY'
+openai.api_key = 'AIzaSyAzlyTKLVA4vJTFNQcCUenKrkox5U_PMkI'
 
 # Initialize Streamlit app
 st.title('Medical Chatbot and PDF Generator')
